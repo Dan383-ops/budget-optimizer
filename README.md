@@ -91,7 +91,7 @@ max Σᵢ Σₜ γ^(T-t)·(marginᵢ·αᵢ·ln(1+βᵢ·xᵢ(t)) - xᵢ(t))
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/username/budget-optimizer.git
+git clone https://github.com/Dan383-ops/budget-optimizer.git
 cd budget-optimizer
 
 # 2. Установить зависимости
